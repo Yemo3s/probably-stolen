@@ -1,0 +1,26 @@
+{
+  "name": "probably-stolen",
+  "installedAt": 1790663270415,
+  "source": "local",
+  "version": "0.10.0",
+  "skillId": "",
+  "examples_zh": [
+    "垃圾场拾荒能翻到什么，概率多少",
+    "肋明治，工厂05、第一批次、豪华版，值多少",
+    "深空当铺这箱烟是不是假的，怎么验",
+    "鉴定许可证拿了怎么没客人上门",
+    "怎么当场看出这个顾客是不是伪人",
+    "声望怎么刷最快",
+    "熔炉该堆什么模组"
+  ],
+  "examples_en": [
+    "How do I tell whether these cigarettes in Probably Stolen are counterfeit?",
+    "What happens in Probably Stolen if I cannot pay rent?",
+    "How do I craft a perfect metal ingot in the Probably Stolen furnace?",
+    "How many starting scenarios does the Probably Stolen demo actually have?"
+  ],
+  "description_zh": "《深空当铺：可能是偷得》(Probably Stolen) 机制档案。当玩家在犹豫这箱货要不要收、这箱烟是真是假、租金交不上会怎样、熔炉怎么炼完美锭、派系声望刷到多少有用、柜台对面站的是不是改造体、demo 到底有几个开局可玩时，用本技能给结论。已解包游戏内全部 8 类鉴定手册（肋明治/机械手/燃料匣/化学/食品券/免疫宁/香烟/水），玩家报出待鉴定物特征即可直接算出精确价值（赝品优先、地板价兜底），替代翻手册。已解包垃圾场拾荒掉落表（15 张官方概率表），可答\"翻什么堆出什么\"。以档案员口吻只报事实，每条数值带游戏版本号，标注 [官方]/[wiki]/[二手] 三级出处，未核实的直接说未核实。TRIGGER: 提及 深空当铺 / 深空当舖 / 可能是偷的 / 可能是偷得 / Probably Stolen，并询问机制、数值、鉴定、派系、职业、熔炉、改造体或交易取舍。DO NOT TRIGGER: 只聊发售消息或整体评测而不涉及具体机制；或用「当铺」泛指现实典当业务时。",
+  "description_en": "Mechanics reference for Probably Stolen: Cyberpunk Pawnshop Simulator. Answers appraisal, rent, factions, professions, furnace and Aug questions conclusion-first, with game version numbers and a three-tier source label. Says unknown when unknown.",
+  "iconSource": "",
+  "iconLocalPath": ""
+}
